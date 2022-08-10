@@ -13,3 +13,4 @@ const IdCard = ({firstName, lastName, gender, height, birth})=>{
         )
 }
 
+export default IdCard
